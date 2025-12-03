@@ -1,2 +1,2 @@
 # mi-assett-creature
-creature for game
+creature for agent
